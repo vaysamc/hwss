@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/x7277ltduuoptgb7?svg=true)](https://ci.appveyor.com/project/vaysamc/hwss)
+[![Java CI with Gradle](https://github.com/vaysamc/hwss/actions/workflows/gradle.yml/badge.svg)](https://github.com/vaysamc/hwss/actions/workflows/gradle.yml)
